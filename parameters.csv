@@ -1,0 +1,7 @@
+Параметр;Значение;Единица
+layer_height;0.2;mm
+nozzle_temperature;210;°C
+bed_temperature;60;°C
+print_speed;60;mm/s
+infill;20;%
+wall_count;2;count
